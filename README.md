@@ -63,26 +63,6 @@ Proje, eksik verilerin doldurulması ve analiz edilmesi için modüler bir yapı
 
 ---
 
-#### Projenin Kullanımı
-
-1. **Kurulum**  
-   Aşağıdaki kütüphaneleri yüklemek için `requirements.txt` dosyasını kullanabilirsiniz:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-2. **Proje Çalıştırma**  
-   Projeyi çalıştırmak için:
-   ```bash
-   python main.py
-   ```
-
-3. **Özelleştirme**  
-   - Veri setinin yolunu ve kolon isimlerini `data_path` ve `categorical_columns` değişkenlerinde güncelleyebilirsiniz.
-   - Kendi veri doldurma yöntemlerinizi eklemek için `imputation_methods.py` dosyasını düzenleyebilirsiniz.
-
----
-
 #### Çıktılar ve Değerlendirme
 
 Proje çalıştırıldığında:
@@ -90,9 +70,3 @@ Proje çalıştırıldığında:
 - Her veri seti üzerinde modelleme yapılabilir ve sonuçlar karşılaştırılabilir.
 
 ---
-
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına göz atabilirsiniz.
-
----
-
-Herhangi bir sorunuz veya öneriniz varsa [GitHub Issues](#) sekmesinden bizimle iletişime geçebilirsiniz. 😊
