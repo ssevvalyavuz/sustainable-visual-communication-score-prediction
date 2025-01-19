@@ -76,3 +76,6 @@ Proje çalıştırıldığında:
 #### Sertifika
 
 ![image](https://github.com/user-attachments/assets/fff86f6d-93de-4d4d-b97d-ffe8017a85a3)
+
+#### Youtube Linki
+https://youtu.be/aKVu4DB_E90
