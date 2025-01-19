@@ -6,6 +6,8 @@
 
 Bu proje, sürdürülebilir tasarım verisi üzerinde eksik veri yönetimi ve veri analizi yapmayı amaçlayan kapsamlı bir Python uygulamasıdır. Projede, eksik verilerin farklı yöntemlerle doldurulması ve ardından bu yöntemlerin performanslarının karşılaştırılması hedeflenmiştir. Kod, aynı zamanda makine öğrenmesi modelleriyle verilerin değerlendirilmesi ve anlamlı çıkarımlar yapılmasını sağlar.
 
+Veriseti : https://www.kaggle.com/datasets/ziya07/visual-communication-art-design-data
+
 ---
 
 #### Proje Yapısı ve Amaçları
@@ -70,3 +72,7 @@ Proje çalıştırıldığında:
 - Her veri seti üzerinde modelleme yapılabilir ve sonuçlar karşılaştırılabilir.
 
 ---
+
+#### Sertifika
+
+![image](https://github.com/user-attachments/assets/fff86f6d-93de-4d4d-b97d-ffe8017a85a3)
